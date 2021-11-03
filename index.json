@@ -1,5 +1,4 @@
-{
-  "tasks": [
+[
     {
       "task_name": "Screens UI",
       "owner": "MArk",
@@ -40,5 +39,4 @@
       "startdate": "10-10-2021",
       "enddate": "14-10-2021"
     }
-  ]
-}
+]
